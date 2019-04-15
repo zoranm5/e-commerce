@@ -25,6 +25,16 @@
                         <a href="#">Cart</a>
                     </li>
                 </ul>
+            </div> <!-- end top-nav -->
+            <div class="hero container">
+                <div class="hero copy">
+                    <h1>CSS Grid Example</h1>
+                    <p> A pracitcal example of using CSS Grid for typical website layout </p>
+                    <div class="hero buttons">
+                        <a href="#" class="button button-white">Button 1</a>
+                        <a href="#" class="button button-white">Button 2</a>
+                    </div><!-- end hero-copy-->
+                </div>
             </div>
         </header>
     </body>
